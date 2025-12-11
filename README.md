@@ -1,4 +1,4 @@
-# 🌾 Paddy Disease Classification and Detection using Deep Learning (ResNet50)
+# 🌾 Paddy Disease Classification and Detection using Deep Learning (ResNet50) 
 
 This project presents a complete end-to-end deep learning pipeline for **classifying paddy leaf diseases** and **detecting affected regions** through Grad-CAM.  
 It combines dataset preprocessing, exploratory data analysis (EDA), model building, transfer learning, fine-tuning, performance evaluation, visualization, and real-time prediction.
